@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=333333&height=150&section=header&text=Hello%20I'm%20Quan%20👋&fontSize=50&animation=fadeIn&fontAlignY=38&fontColor=FFFFFF" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=333333&height=150&section=header&text=Hello%20I'm%20Thai%20Thanh%20Quan%20👋&fontSize=50&animation=fadeIn&fontAlignY=38&fontColor=FFFFFF" />
 </p>
 
 <p align="center">
@@ -20,8 +20,11 @@ A third-year Information Systems student at **PTIT**. I'm a developer who loves 
 - ⚡ Daily Routine: Coding & Gym.
   
 ---
-<img src="https://img.shields.io/badge/Gym-Enthusiast-orange?style=for-the-badge&logo=fitness&logoColor=white" />
 ### 🚀 Tech Stack
+<br/>
+
+### ⚡ Lifestyle
+<img src="https://img.shields.io/badge/Gym-Enthusiast-orange?style=for-the-badge&logo=fitness&logoColor=white" />
 
 #### **Frontend**
 <p align="left">
@@ -53,8 +56,8 @@ A third-year Information Systems student at **PTIT**. I'm a developer who loves 
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=omni&border_radius=10&count_private=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=omni&border_radius=10&hide=html,css" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ThaiThanhQuan&show_icons=true&theme=omni&border_radius=10&count_private=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThaiThanhQuan&layout=compact&theme=omni&border_radius=10&hide=html,css" alt="Top Languages" height="180" />
 </p>
 
 ---
@@ -64,16 +67,16 @@ A third-year Information Systems student at **PTIT**. I'm a developer who loves 
   <a href="mailto:thaithanhquan11102005@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="[https://facebook.com/ID-CUA-BAN](https://www.facebook.com/quan.thai.510842)" target="_blank">
+  <a href="https://www.facebook.com/quan.thai.510842" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="[https://instagram.com/ID-CUA-BAN](https://www.instagram.com/quan.thai_/)" target="_blank">
+  <a href="https://www.instagram.com/quan.thai_/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="[https://threads.net/@ID-CUA-BAN](https://www.threads.com/@quan.thai_)" target="_blank">
+  <a href="https://www.threads.net/@quan.thai_" target="_blank">
     <img src="https://img.shields.io/badge/Threads-000000?style=flat-square&logo=threads&logoColor=white" alt="Threads" />
   </a>
-  <a href="[https://tiktok.com/@ID-CUA-BAN](https://www.tiktok.com/@quanthai)" target="_blank">
+  <a href="https://www.tiktok.com/@quanthai" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white" alt="TikTok" />
   </a>
 </p>
