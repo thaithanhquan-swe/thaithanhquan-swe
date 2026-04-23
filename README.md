@@ -21,7 +21,6 @@ A third-year Information Systems student at **PTIT**. I'm a developer who loves 
   
 ---
 ### 🚀 Tech Stack
-<br/>
 
 ### ⚡ Lifestyle
 <img src="https://img.shields.io/badge/Gym-Enthusiast-orange?style=for-the-badge&logo=fitness&logoColor=white" />
