@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=150&section=header&text=Hello%20I'm%20Quan%20👋&fontSize=50&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=333333&height=150&section=header&text=Hello%20I'm%20Quan%20👋&fontSize=50&animation=fadeIn&fontAlignY=38&fontColor=FFFFFF" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=333333&center=true&vCenter=true&width=500&lines=Web+Developer+Frontend;Java+Spring+Boot+Backend;Fashion+UI/UX+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Web+Developer+Frontend;Java+Spring+Boot+Backend;Fashion+UI/UX+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -15,12 +15,12 @@
 ### 💫 About Me
 A third-year Information Systems student at **PTIT**. I'm a developer who loves building high-performance web applications with a focus on **minimalist** and **high-fashion UI/UX design aesthetics**.
 
-- 🔭 Working on: **Audiomesh** (Social media integration) & **Cryptography Toolkit**.
-- 🎨 Design Inspo: *Gentle Monster, Gucci, DirtyCoins*.
-- 🏃‍♂️ Fitness: High-protein cooking enthusiast.
-
+- 🎨 Design Inspo: *Gentle Monster, Gucci*.
+- 🏋️‍♂️ Fitness: Gym enthusiast & High-protein cooking.
+- ⚡ Daily Routine: Coding & Gym.
+  
 ---
-
+<img src="https://img.shields.io/badge/Gym-Enthusiast-orange?style=for-the-badge&logo=fitness&logoColor=white" />
 ### 🚀 Tech Stack
 
 #### **Frontend**
@@ -53,22 +53,31 @@ A third-year Information Systems student at **PTIT**. I'm a developer who loves 
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=omni&border_radius=10" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=omni&border_radius=10" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=omni&border_radius=10&count_private=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=omni&border_radius=10&hide=html,css" alt="Top Languages" height="180" />
 </p>
 
 ---
 
 ### 📫 Connect with me
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  <a href="mailto:thaithanhquan11102005@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  <a href="[https://facebook.com/ID-CUA-BAN](https://www.facebook.com/quan.thai.510842)" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="[https://instagram.com/ID-CUA-BAN](https://www.instagram.com/quan.thai_/)" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="[https://threads.net/@ID-CUA-BAN](https://www.threads.com/@quan.thai_)" target="_blank">
+    <img src="https://img.shields.io/badge/Threads-000000?style=flat-square&logo=threads&logoColor=white" alt="Threads" />
+  </a>
+  <a href="[https://tiktok.com/@ID-CUA-BAN](https://www.tiktok.com/@quanthai)" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white" alt="TikTok" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=30&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=333333&height=40&section=footer&text=Thanks%20for%20visiting!%20🔥&fontSize=18&fontColor=FFFFFF&fontAlignY=50" />
 </p>
