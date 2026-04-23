@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=333333&height=150&section=header&text=Hello%20I'm%20Thai%20Thanh%20Quan%20👋&fontSize=50&animation=fadeIn&fontAlignY=38&fontColor=FFFFFF" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=333333&height=120&section=header&text=Hello%20I'm%20Thai%20Thanh%20Quan%20👋&fontSize=45&animation=fadeIn&fontAlignY=35&fontColor=FFFFFF" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Web+Developer+Frontend;Java+Spring+Boot+Backend;Fashion+UI/UX+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=450&lines=Web+Developer+Frontend;Java+Spring+Boot+Backend;Fashion+UI/UX+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/demartini/demartini/blob/master/code.gif" width="600" alt="Coding GIF">
+  <img src="https://github.com/demartini/demartini/blob/master/code.gif" width="450" alt="Coding GIF">
 </p>
 
 ---
