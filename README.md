@@ -1,54 +1,46 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=333333&height=120&section=header&text=Hello%20I'm%20Thai%20Thanh%20Quan%20👋&fontSize=45&animation=fadeIn&fontAlignY=35&fontColor=FFFFFF" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1a1a&height=120&section=header&text=Hello,%20I'm%20Thai%20Thanh%20Quan%20👋&fontSize=45&animation=fadeIn&fontAlignY=35&fontColor=FFFFFF" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=450&lines=Web+Developer+Frontend;Java+Spring+Boot+Backend;Fashion+UI/UX+Enthusiast" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/demartini/demartini/blob/master/code.gif" width="450" alt="Coding GIF">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=450&lines=Full-stack+Web+Developer;Next.js+%26+Spring+Boot+Expertise;Fashion+UI/UX+Enthusiast;Clean+Architecture+Advocate" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 💫 About Me
-A third-year Information Systems student at **PTIT**. I'm a developer who loves building high-performance web applications with a focus on **minimalist** and **high-fashion UI/UX design aesthetics**.
+I am a 3rd-year **Information Systems** student at **PTIT**. I build complete web applications with a focus on clean architecture and real-world utility — bridging the gap between robust backend logic and high-end, user-friendly interfaces.
 
-- 🎨 Design Inspo: *Gentle Monster, Gucci*.
-- 🏋️‍♂️ Fitness: Gym enthusiast & High-protein cooking.
-- ⚡ Daily Routine: Coding & Gym.
-  
+- 🔭 **Continuously Shipping:** I focus on launching real-world projects rather than just following tutorials.
+- 🎨 **Design Aesthetics:** Heavily inspired by minimalist and high-fashion UI/UX.
+- 🧠 **Technical Interests:** Backend architecture, automation, and AI-powered integration.
+- 🏋️‍♂️ **Lifestyle:** Dedicated gym enthusiast. I believe in a disciplined routine of coding and high-protein nutrition.
+
 ---
-### 🚀 Tech Stack
 
-### ⚡ Lifestyle
-<img src="https://img.shields.io/badge/Gym-Enthusiast-orange?style=for-the-badge&logo=fitness&logoColor=white" />
+### 🚀 Tech Stack
 
 #### **Frontend**
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
 #### **Backend & Databases**
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-#### **Tools & Others**
+#### **Tools & Performance**
 <p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gym-Enthusiast-orange?style=for-the-badge&logo=fitness&logoColor=white" />
 </p>
 
 ---
@@ -75,11 +67,12 @@ A third-year Information Systems student at **PTIT**. I'm a developer who loves 
   <a href="https://www.threads.net/@quan.thai_" target="_blank">
     <img src="https://img.shields.io/badge/Threads-000000?style=flat-square&logo=threads&logoColor=white" alt="Threads" />
   </a>
-  <a href="https://www.tiktok.com/@quanthai" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white" alt="TikTok" />
-  </a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=333333&height=40&section=footer&text=Thanks%20for%20visiting!%20🔥&fontSize=18&fontColor=FFFFFF&fontAlignY=50" />
+  <img src="https://github.com/demartini/demartini/blob/master/code.gif" width="400" alt="Coding GIF">
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1a1a1a&height=40&section=footer&text=Keep%20Coding%20·%20Keep%20Grinding%20🔥&fontSize=18&fontColor=FFFFFF&fontAlignY=50" />
 </p>
