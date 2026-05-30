@@ -1,38 +1,51 @@
-<div align="center">
+thaithanhquan / README.md
 
 # Thai Thanh Quan
-Full-stack Developer · Next.js | Spring Boot · Minimalist UI/UX
 
-</div>
+**Full-Stack Web Developer · 3rd-year Student @ PTIT**
 
----
+I build complete web applications with a focus on clean architecture, optimized performance, and premium minimalist UI/UX — bridging backend logic with seamless user experiences.
 
-## About
-
-| | |
-|---|---|
-| 🎓 3rd-year PTIT · Information Systems | 🚀 Building full-stack web apps |
-| 🎨 Minimalist & fashion UI/UX | 🧠 Backend architecture & AI |
+* 🔭 Continuously shipping real-world projects, not just tutorials
+* 🧠 Deeply interested in backend design, cloud integration, and application security
+* 📬 [thaithanhquan11102005@gmail.com](mailto:thaithanhquan11102005@gmail.com)
 
 ---
 
-## Tech Stack
+## 🚀 What I'm Building
 
-**Frontend**  
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
+**[COUTURE](https://fashion-opal-nu.vercel.app/)** A premium fashion e-commerce platform integrating an AI-powered shopping assistant for automated customer support, alongside dynamic VietQR generation for seamless automated bank transfer payments.
 
-**Backend**  
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+**[Audiomesh](https://audiomesh.vercel.app/)** A SoundCloud-inspired music streaming platform that allows users to upload their own tracks, share music with the community, and interact through a minimalist, frosted-glass (glassmorphic) UI.
 
 ---
 
-## Connect
+## 🛠️ Tech Stack
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:thaithanhquan11102005@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/quan.thai.510842)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/quan.thai_/)
+### Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend & Databases
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Security & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+*Familiar with Vulnerability Assessment, Network Monitoring (Wazuh, Suricata), and pfSense firewall configs.*
+
+---
+
+## 🌐 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thaithanhquan-developer/) 
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thaithanhquan) 
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/quan.thai.510842) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/quan.thai_/)
