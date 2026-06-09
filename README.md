@@ -1,4 +1,3 @@
-thaithanhquan / README.md
 
 # Thai Thanh Quan
 
