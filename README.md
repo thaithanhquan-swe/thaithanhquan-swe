@@ -7,7 +7,7 @@ I build complete web applications with a focus on clean architecture, optimized 
 
 * 🔭 Continuously shipping real-world projects, not just tutorials
 * 🧠 Deeply interested in backend design, cloud integration, and application security
-* 📬 [thaithanhquan11102005@gmail.com](mailto:thaithanhquan11102005@gmail.com)
+* 📬 [thaithanhquan.developer@gmail.com](mailto:thaithanhquan.developer@gmail.com)
 
 ---
 
